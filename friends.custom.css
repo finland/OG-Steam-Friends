@@ -18,26 +18,6 @@
   --textentrybuttons: 200, 200, 200;
 }
 
-/* Experimental Metro White theme color values:
---focus: 0, 114, 198;
---clientBG: 230,230,230;
---header_dark: 255,255,255;
---online: 66, 104, 255;
---ingame: 94, 150, 15;
---offline: 0, 0, 0, .45;
---golden: 255, 255, 99;
---scrollbarSize: 15px;
---scrollbarBG: 0,0,0,.05;
---textentry: 207,207,207;
---white05: 0,0,0,.05;
---white10: 0,0,0,.1;
---white50: 0,0,0,.5;
---white75: 0,0,0,.75;
---white: 0,0,0;
---border: 160,160,160;
---textentrybuttons: 35,50,50;
-*/
-
 /* remove animations, round corners and delays */
 *{
   box-shadow: none !important;
