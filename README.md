@@ -1,4 +1,4 @@
-### Work in Progress
+## Work in Progress
 
 Friends/Chat theme for use with [OG-Steam skin](https://github.com/ungstein/OG-Steam) and
 [OG-Steam-Library](https://github.com/ungstein/OG-Steam) and [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher).
@@ -12,7 +12,7 @@ step 2: put friends.custom.css in ~\Steam\clientui
 step 3: launch steamfriendspatcher with steam beta option on
 
 
-# credits
+## credits
 [@niss1m](https://github.com/niss1m) - help me on this
 
 [@ungstein](https://github.com/ungstein) - original theme idea 
