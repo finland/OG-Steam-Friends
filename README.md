@@ -11,13 +11,13 @@ step 3: launch steamfriendspatcher with steam beta option on
 
 
 # credits
-[@niss1m](github.com/niss1m) - help me on this
+[@niss1m](https://github.com/niss1m) - help me on this
 
-[@ungstein](github.com/ungstein) - original theme idea 
+[@ungstein](https://github.com/ungstein) - original theme idea 
 
 [@RoseTheFlower](https://github.com/RoseTheFlower) - chat theme base
 
-[@PhantomGamers](github.com/PhantomGamers) - patching the friends 
+[@PhantomGamers](https://github.com/PhantomGamers) - patching the friends 
 
 
 ![Untitled-3](https://user-images.githubusercontent.com/49638699/114303311-23d87800-9ad6-11eb-87aa-527bc76e6b48.png)
