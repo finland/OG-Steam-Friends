@@ -1,4 +1,4 @@
-Library theme for use with [OG-Steam skin](https://github.com/ungstein/OG-Steam) and
+Friends/Chat theme for use with [OG-Steam skin](https://github.com/ungstein/OG-Steam) and
 [OG-Steam-Library](https://github.com/ungstein/OG-Steam) and [SteamFriendsPatcher](https://github.com/PhantomGamers/SteamFriendsPatcher).
 
 ## How to Installation
