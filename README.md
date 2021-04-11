@@ -11,8 +11,9 @@ step 3: launch steamfriendspatcher with steam beta option on
 
 
 # credits
+[@niss1m](github.com/niss1m) - help me on this
 
-[@ungstein](github.com/ungstein) - theme 
+[@ungstein](github.com/ungstein) - original theme idea 
 
 [@RoseTheFlower](https://github.com/RoseTheFlower) - chat theme base
 
