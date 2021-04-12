@@ -18,6 +18,26 @@
   --textentrybuttons: 200, 200, 200;
 }
 
+/* Experimental Metro White theme color values:
+--focus: 0, 114, 198;
+--clientBG: 230,230,230;
+--header_dark: 255,255,255;
+--online: 66, 104, 255;
+--ingame: 94, 150, 15;
+--offline: 0, 0, 0, .45;
+--golden: 255, 255, 99;
+--scrollbarSize: 15px;
+--scrollbarBG: 0,0,0,.05;
+--textentry: 207,207,207;
+--white05: 0,0,0,.05;
+--white10: 0,0,0,.1;
+--white50: 0,0,0,.5;
+--white75: 0,0,0,.75;
+--white: 0,0,0;
+--border: 160,160,160;
+--textentrybuttons: 35,50,50;
+*/
+
 /* remove animations, round corners and delays */
 *{
   box-shadow: none !important;
@@ -25,7 +45,8 @@
   transition: none !important;
   transition-duration: 0ms !important;
   text-shadow: none !important;
-/*font-family: "Segoe UI", "Motiva Sans", Arial, Helvetica, sans-serif !important;*/
+  font-family: "Motiva Sans", Arial, Helvetica, sans-serif;
+  text-shadow: 0 0 3px black;
 }
 
 /* User's name and status */
@@ -1070,7 +1091,7 @@ margin-bottom: 2px!important;}
   
 .timeDivision.time_passes .preHorizDivider,
 .timeDivision.time_passes .horizDivider {
-border: 1px dashed rgb(26,26,26) !important;
+border: 1px dashed rgb(161,152,73) !important;
  margin-left: 1px !important; }
 
 .timeDivision .preHorizDivider{
@@ -1519,20 +1540,7 @@ background-color: rgb(var(--focus))!important;}
 	background: rgb(var(--focus))!important;
 	background-color: none!important;}
 	
-.friendlistListContainer .Collapsed .ExpandPlusMinus .SVGIcon_PlusCircle {
-stroke: rgba(var(--white50))!important;}
-.friendlistListContainer .ExpandPlusMinus .SVGIcon_PlusCircle{
-    width: 4px!important;
-    height: 17px!important;
-margin-left: 1px!important;
-stroke: rgb(var(--white))!important;}
-.friendlistListContainer .SVGIcon_PlusCircle circle{
-stroke-width: 180px!important;
-opacity:1!important;}
-.friendlistListContainer .ExpandPlusMinus .SVGIcon_PlusCircle .horizontalLine, .ExpandPlusMinus .SVGIcon_PlusCircle .verticalLine{
-display:none!important;}
-.friendlistListContainer .ExpandPlusMinus{
-opacity:1!important;}
+
 
 .friendGroup.offlineFriends .groupName .groupCount, .friendGroup.onlineFriends .groupName .groupCount, .friendGroup .groupName .groupCount.collapsed, .friendGroup .groupName .groupCount {
 	  opacity: 1!important;
@@ -1858,7 +1866,6 @@ margin-left: 5px!important;}
 .messages_MsgWithAddons_lFLbk .messages_Addons_1aOXJ {
     background-color: #3d4737;
 }
-
 
 .friendGroup .groupName {
     color: #a19849 !important;
