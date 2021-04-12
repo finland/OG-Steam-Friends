@@ -21,6 +21,6 @@ step 3: launch steamfriendspatcher with steam beta option on
 
 [@PhantomGamers](https://github.com/PhantomGamers) - patching the friends 
 
+![Untitled-3](https://user-images.githubusercontent.com/49638699/114433559-a5113700-9bca-11eb-9a7b-985b4c9dde5b.png)
 
-![Untitled-3](https://user-images.githubusercontent.com/49638699/114303311-23d87800-9ad6-11eb-87aa-527bc76e6b48.png)
 
