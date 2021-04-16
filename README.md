@@ -13,7 +13,7 @@ step 3: launch steamfriendspatcher with steam beta option on
 
 
 ## credits
-[@niss1m](https://github.com/niss1m) - help me on this
+
 
 [@ungstein](https://github.com/ungstein) - original theme idea 
 
