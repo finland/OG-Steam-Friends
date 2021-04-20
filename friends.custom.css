@@ -1870,3 +1870,20 @@ margin-left: 5px!important;}
 .friendGroup .groupName {
     color: #a19849 !important;
 }
+
+
+.friendsListContainer {
+	border: 1px solid #808080;
+}
+
+.chatentry_chatTextarea_3e__5 {
+	border: 0.5px solid #5a6a50;
+}
+
+.friendListFooter {
+	border-bottom: 1px solid;
+}
+
+.unreadFriend .FriendMessageCount {
+	background: rgba(218, 149, 0, 0.35) !important;
+}
